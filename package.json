@@ -1,7 +1,7 @@
 {
-  "name": "garnish",
+  "name": "garnish-data",
   "version": "5.2.0",
-  "description": "prettifies ndjson from wzrd and similar tools",
+  "description": "prettifies ndjson from wzrd and similar tools - fork to show more data",
   "main": "index.js",
   "license": "MIT",
   "author": {
